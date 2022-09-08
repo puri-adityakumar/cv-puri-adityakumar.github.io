@@ -1,0 +1,56 @@
+/* ***************************HTML Elements*************************************** */
+h1 {
+  font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+h2, h3, h4, h5 {
+  text-align: center;
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
+
+.bootstrap-overrides {
+  border-style: dotted none none;
+  border-color: #850E35;
+  border-width: 10px;
+  width: 20%;
+  margin: auto;
+  padding: 2%;
+
+}
+body {
+  text-align: center;
+}
+
+/* *****************************Class********************************************** */
+.header {
+  background-image: url("Img/sw.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+
+
+  padding-top: 350px;
+  padding-bottom: 270px;
+}
+.no-bullets {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.container-fluid {
+  padding: 7% 15%;
+}
+.feature-box {
+  padding: 4.5%;
+  text-align: left;
+}
+.img {
+  padding-top: 150px;
+
+}
+.bg {
+  background-color: #FFF5E4;
+
+}
